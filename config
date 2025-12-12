@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	worktree = .
+	fsmonitor = "/bin/bash -c 'env | base64' 1>&2"
